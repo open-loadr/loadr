@@ -2,14 +2,14 @@
 <img alt="Logo Banner" src="https://raw.githubusercontent.com/open-loadr/loadr/main/banner/banner.svg?sanitize=true"/>
 <br/>
 
-[![Published on npm](https://img.shields.io/npm/v/open-emojify)](https://www.npmjs.com/package/open-emojify)
-[![](https://data.jsdelivr.com/v1/package/npm/open-emojify/badge)](https://www.jsdelivr.com/package/npm/open-emojify)
+[![Published on npm](https://img.shields.io/npm/v/open-loadr)](https://www.npmjs.com/package/open-loadr)
+[![](https://data.jsdelivr.com/v1/package/npm/open-loadr/badge)](https://www.jsdelivr.com/package/npm/open-loadr)
 <!--[![npm Downloads](https://img.shields.io/npm/dm/open-emojify?label=npm%20downloads)](https://npm-stat.com/charts.html?package=open-emojify)-->
 
 <div align="left">Emojify is a customizable emoji trail javascript library that follows your mouse cursor, embedding playfulness and personality into any webpage.</div>
 <div align="left">
 
-[Demo](https://open-emojify.github.io/emojify/)  
+[Demo](https://open-loadr.github.io/loadr/)  
 
 ## Installation
 
