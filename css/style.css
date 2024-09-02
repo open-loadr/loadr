@@ -12,19 +12,37 @@ body {
     overflow: hidden;
 }
 
+img {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    object-fit: cover;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+
 #emojify { 
     transition: all 0.25s ease;
     margin: 0;
     padding: 0;
     position: fixed;
-    top: 0;
+    top: 48px;
     left: 48px;
-    font-size: 256px;
+    font-size: 100px;
     height: fit-content;
     width: fit-content;
     font-family: "Plus Jakarta Sans", sans-serif;
     user-select: none;
     pointer-events: none;
+    color: #fafafa;
+    z-index: 3;
 }
 
 #config-btn {
