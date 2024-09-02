@@ -53,6 +53,20 @@ Call Loadr in your Javascript. That's it 🎉.
 
 Check out the Demo on [Codepen.](https://codepen.io/GreenestGoat/pen/yLdRzPN)
 
+Extra step: Lets add some styling to the ```<img>``` element.
+
+```style.css```
+
+```css
+img {
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+  border-radius: 15px;
+  overflow: hidden;
+}
+```
+
 ## Customization
 
 Loadr comes with variables that can be easily customized.
