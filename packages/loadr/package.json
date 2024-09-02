@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/open-emojify/emojify.git"
+    "url": "git+https://github.com/open-loadr/loadr.git"
   },
-  "author": "masejs",
+  "author": "open-loadr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/open-emojify/emojify/issues"
+    "url": "https://github.com/open-loadr/loadr/issues"
   },
-  "homepage": "https://open-emojify.github.io/emojify/",
+  "homepage": "https://open-loadr.github.io/loadr/",
   "keywords": [
     "javascript",
     "css",
