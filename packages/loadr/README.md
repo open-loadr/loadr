@@ -29,7 +29,7 @@ Import Loadr using CDN.
 ```
 
 ## Usage
-Add the atribute ```hr-src``` to your img element.
+Add the ```hr-src``` to the HTML ```<img>``` element, This will be your high-res image. In the ```src``` attribute is the low-res version of your image. Loadr will load the high-res image in the background then update the ```src``` with its URL.
 
 ```index.html```
 
