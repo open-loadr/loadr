@@ -34,7 +34,7 @@ Add the ```hr-src``` to the HTML ```<img>``` element, This will be your high-res
 ```index.html```
 
 ```html
-<img hr-src="high_res.png" src="low_res.png">
+<img hr-src="/images/high_res.png" src="/images/low_res.png">
 ```
 
 Call Loadr in your Javascript. That's it 🎉.
