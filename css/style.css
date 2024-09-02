@@ -26,6 +26,7 @@ body {
     align-items: center;
     text-align: center;
     display: flex;
+    opacity: 0.8;
 }
 
 #img-container img {
