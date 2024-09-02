@@ -1,0 +1,33 @@
+{
+  "name": "open-loadr",
+  "version": "0.0.0",
+  "description": "Emojify is a customizable emoji trail javascript library that follows your mouse cursor, embedding playfulness and personality into any webpage.",
+  "main": "loadr.min.js",
+  "unpkg": "loadr.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-emojify/emojify.git"
+  },
+  "author": "masejs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-emojify/emojify/issues"
+  },
+  "homepage": "https://open-emojify.github.io/emojify/",
+  "keywords": [
+    "javascript",
+    "css",
+    "emoji",
+    "html",
+    "open-source",
+    "library",
+    "customization",
+    "mouse",
+    "emojify",
+    "cursor",
+    "trail"
+  ]
+}
