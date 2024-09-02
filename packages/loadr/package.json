@@ -1,7 +1,7 @@
 {
   "name": "open-loadr",
   "version": "0.0.0",
-  "description": "Emojify is a customizable emoji trail javascript library that follows your mouse cursor, embedding playfulness and personality into any webpage.",
+  "description": "Loadr is an efficient solution for seamlessly loading large images in HTML, with a minified size of under 1 KB.",
   "main": "loadr.min.js",
   "unpkg": "loadr.min.js",
   "scripts": {

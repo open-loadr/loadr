@@ -6,7 +6,7 @@
 [![](https://data.jsdelivr.com/v1/package/npm/open-loadr/badge)](https://www.jsdelivr.com/package/npm/open-loadr)
 <!--[![npm Downloads](https://img.shields.io/npm/dm/open-emojify?label=npm%20downloads)](https://npm-stat.com/charts.html?package=open-emojify)-->
 
-<div align="left">Emojify is a customizable emoji trail javascript library that follows your mouse cursor, embedding playfulness and personality into any webpage.</div>
+<div align="left">Loadr is an efficient solution for seamlessly loading large images in HTML, with a minified size of under 1 KB.</div>
 <div align="left">
 
 [Demo](https://open-loadr.github.io/loadr/)  
