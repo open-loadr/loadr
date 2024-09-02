@@ -47,6 +47,8 @@ Call Loadr in your Javascript. That's it 🎉.
 </script>
 ```
 
+Check out the Demo on [Codepen.](https://codepen.io/GreenestGoat/pen/yLdRzPN)
+
 ## Customization
 
 Loadr comes with variables that can be easily customized.
@@ -61,7 +63,7 @@ Loadr comes with variables that can be easily customized.
 </script>
 ```
 
-Check out the Demo on [Codepen.](https://codepen.io/GreenestGoat/pen/BagqdNR)
+Check out the Customization Demo on [Codepen.](https://codepen.io/GreenestGoat/pen/BagqdNR)
 
 ## Copyright and license
 
