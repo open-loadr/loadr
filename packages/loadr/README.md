@@ -72,6 +72,8 @@ img {
 
 Loadr comes with variables that can be easily customized.
 
+```index.html```
+
 ```html
 <script>
   new Loadr({
