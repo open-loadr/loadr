@@ -54,7 +54,7 @@ Loadr comes with variables that can be easily customized.
 </script>
 ```
 
-Check out the Demo on [Codepen.](https://codepen.io/GreenestGoat/pen/gONGbBo?editors=0010)
+Check out the Demo on [Codepen.](https://codepen.io/GreenestGoat/pen/BagqdNR)
 
 ## Copyright and license
 
