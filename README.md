@@ -53,7 +53,8 @@ Call Loadr in your Javascript. That's it 🎉.
 
 Check out the Demo on [Codepen.](https://codepen.io/GreenestGoat/pen/yLdRzPN)
 
-Extra step: Lets add some styling to the ```<img>``` element.
+### Extra step
+Lets add some styling to the ```<img>``` element.
 
 ```style.css```
 
