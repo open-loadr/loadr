@@ -29,9 +29,11 @@ Import Loadr using CDN.
 ```
 
 ## Usage
+Add the atribute ```hr-src``` to your img element.
+
+```index.html```
 
 ```html
-Add the atribute ```hr-src``` to your img element.
 <img hr-src="high_res.png" src="low_res.png">
 ```
 
