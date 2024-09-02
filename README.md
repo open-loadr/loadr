@@ -15,50 +15,49 @@
 
 ### CDN
 
-Import Emojify using CDN.
+Import Loadr using CDN.
 
 ```index.html```
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/open-emojify/emojify.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/open-loadr/loadr.min.js"></script>
 ```
 
 #### 🚧 Specific Version
 ```html
-<script src="https://cdn.jsdelivr.net/npm/open-emojify@0.0.15/emojify.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/open-loadr@latest/loadr.min.js"></script>
 ```
 
 ## Usage
 
-Call the Emojify library in your Javascript. That's it 🎉.
+Call Loadr in your Javascript. That's it 🎉.
 
-```main.js```
+```index.html```
 
 ```js
-window.emojify = new Emojify({});
+<script>
+  new Loadr();
+</script>
 ```
 
 ## Customization
 
-Emojify comes with options / variables that can easily be customized.
+Loadr comes with variables that can be easily customized.
 
 ```js
-window.emojify = new Emojify({
-    emojis: ['😂','😎','😍','😀'], // replaces default emojis with emojis within a string
-    random: true, // determines if emojis should be shown random or in order
-    duration: 500, // duration before hiding emojis
-    delay: 15, // delay between showing a new emoji
-    size: '48px', // font-size of emojis
-    zIndex: 9999, // z-index of emojis
-});
+<script>
+  new Loadr({
+    async: false,
+    cache: true,
+    delay: '750'
+  });
+</script>
 ```
 
 Check out the Demo on [Codepen.](https://codepen.io/GreenestGoat/pen/gONGbBo?editors=0010)
 
-Emojify is also a [Chrome Extension.](https://github.com/open-emojify/emojify-extension)
-
 ## Copyright and license
 
-Licensed under the MIT License, Copyright © 2024-present Emojify.
+Licensed under the MIT License, Copyright © 2024-present open-loadr.
 
-See [LICENSE](https://github.com/open-emojify/emojify/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/open-loadr/loadr/blob/main/LICENSE) for more information.
