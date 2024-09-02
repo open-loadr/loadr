@@ -30,11 +30,15 @@ Import Loadr using CDN.
 
 ## Usage
 
+```html
+<img hr-src="high_res.png" src="low_res.png">
+```
+
 Call Loadr in your Javascript. That's it 🎉.
 
 ```index.html```
 
-```js
+```html
 <script>
   new Loadr();
 </script>
@@ -44,7 +48,7 @@ Call Loadr in your Javascript. That's it 🎉.
 
 Loadr comes with variables that can be easily customized.
 
-```js
+```html
 <script>
   new Loadr({
     async: false,
