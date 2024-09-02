@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Logo Banner" src="https://raw.githubusercontent.com/open-emojify/emojify/main/banner/banner.svg?sanitize=true"/>
+<img alt="Logo Banner" src="https://raw.githubusercontent.com/open-loadr/loadr/main/banner/banner.svg?sanitize=true"/>
 <br/>
 
 [![Published on npm](https://img.shields.io/npm/v/open-emojify)](https://www.npmjs.com/package/open-emojify)
