@@ -20,12 +20,12 @@ Import Loadr using CDN.
 ```index.html```
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/open-loadr"></script>
+<script src="https://cdn.jsdelivr.net/npm/open-loadr/loadr.min.js"></script>
 ```
 
 #### 🚧 Specific Version
 ```html
-<script src="https://cdn.jsdelivr.net/npm/open-loadr@latest"></script>
+<script src="https://cdn.jsdelivr.net/npm/open-loadr@latest/loadr.min.js"></script>
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
 {
   "name": "open-loadr",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Loadr is an efficient solution for seamlessly loading large images in HTML, with a minified size of under 1 KB.",
   "main": "loadr.min.js",
   "unpkg": "loadr.min.js",
