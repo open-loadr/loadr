@@ -41,7 +41,6 @@ body {
 }
 
 #heading { 
-    transition: all 0.25s ease;
     margin: 0;
     padding: 0;
     position: fixed;
